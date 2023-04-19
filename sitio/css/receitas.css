@@ -1,0 +1,23 @@
+.nomes{
+    text-align: center;
+}
+
+#fundo{
+    background-color: #f87935;
+}
+
+img{
+    border-radius: 5%;
+}
+
+.preparo{
+    border-top-style: groove;
+}
+
+.col {
+    width: 200px;
+}
+
+hr{
+    opacity: 0;
+}

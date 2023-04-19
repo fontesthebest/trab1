@@ -1,0 +1,38 @@
+#formu{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    align-items: flex-start;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+h1{
+    text-align: left;
+}
+
+.campo{
+    display: flex;
+    flex-direction: row;
+    align-items: left;
+    
+}
+
+.texto{
+    width: 100px;
+    align-content: flex-start;
+    display: flex;
+}
+
+#principal{
+    display: flex;
+    align-items: flex-start;
+}
+
+#bot{
+    background-color: dimgray;
+    border-style: none;
+    margin: 10px;
+    
+}
